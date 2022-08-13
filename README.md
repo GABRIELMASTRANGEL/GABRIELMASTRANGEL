@@ -1,12 +1,12 @@
 # Características sucintas sobre mim
 
 
-- 👋 Olá, eu sou o Gabriel Mastrangelo;
+- 👋 Olá, eu sou o **Gabriel Mastrangelo**;
 - 👀 Eu estou interessado em tudo sobre o mundo da programação e desenvolvimento de sistemas;
 - 🌱 Estou frequentemente buscando novas informações sobre programação quando tenho tempo disponível;
 - Recentemente aprendi alguns conceitos em JavaScript e Scratch;
 - 💞️ Estou buscando colaborar para esse mundo da programação e aprender tudo sobre ele;
-- 📫 Para chegar até mim, você poderia acessar o e-mail gabriel.mastrangelo@escola.pr.gov.br, e conversar comigo o momento que quiser, sem problemas!
+- 📫 Para chegar até mim, você poderia acessar o [meu e-mail](gabriel.mastrangelo@escola.pr.gov.br), e conversar comigo o momento que quiser, sem problemas!
 
 <!---
 GABRIELMASTRANGEL/GABRIELMASTRANGEL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
