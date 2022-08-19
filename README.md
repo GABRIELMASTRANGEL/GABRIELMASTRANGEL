@@ -15,4 +15,10 @@ You can click the Preview link to take a look at your changes.
 # O que faço?
 - Eu sou um estudante, e como qualquer um, estou frequentemente atrás de conhecimento nesse mundo, que é atualmente um mundo da velocidade progressiva, sempre com velocidades maiores que antes, os dias passam como que sem percepção.
 - Portanto, apesar de ser estudante, também vivo a vida fora das telas,(enquanto estujdo programação) lendo livros, tocando violão, assistindo seriados, jogando futebol, praticando atividades físicas e esportes, indo à igreja, conversando com meus familiares, além de tudo que se imagina sobre um adolescente de 15 anos!
-##### olha, pode conversar comigo, mas não será sempre que vou responder.
+##### _Vou responder quando puder._
+
+
+### **Algumas linguagens de programação usadas por mim**:
+
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
